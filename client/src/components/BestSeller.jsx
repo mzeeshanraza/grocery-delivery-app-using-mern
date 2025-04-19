@@ -2,7 +2,7 @@ import React from 'react'
 
 const BestSeller = () => {
   return (
-    <div>
+    <div className='mt-16'>
       
     </div>
   )
